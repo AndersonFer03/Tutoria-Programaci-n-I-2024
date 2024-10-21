@@ -1,0 +1,12 @@
+Arquitectura,40,50444,
+
+Probabilidad,20,50453,
+
+Estructura de Datos,35,50440,
+
+Soporte Tecnico,50,40563,
+
+Algebra Lineal,45,40571,
+
+Programacion II,32,40567,
+

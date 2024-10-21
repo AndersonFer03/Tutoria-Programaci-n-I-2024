@@ -1,0 +1,6 @@
+Probabilidad,20,50453,
+
+Arquitectura,40,50444,
+
+Estructura de Datos,35,50440,
+
