@@ -1,0 +1,6 @@
+Carro;Camry 2004;Toyota;20000000;Automatico;
+Carro;Sentra 2020;Nissan;10000000;Automatico;
+Carro;Tucson 2023;Hyundai;5000000;Manual;
+Moto;2005;Yamaha;1500000;Enduro;
+Moto;2023;Susuki;7500000;Urbana;
+Moto;2020;Honda;2000000;Turismo;

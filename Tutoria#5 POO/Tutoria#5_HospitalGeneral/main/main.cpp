@@ -13,12 +13,12 @@ void printPatients(Patient** patients, int size) {
 }
 int main()
 {
-	Patient** patients = new Patient*[3];
+	Patient* patients[3];
 	patients[0] = new Geriatrics(80,12939404, "Carlos", "87679854","ICE");
 	patients[1] = new GeneralMedicine(30, 234567865, "Maria", "67894356", "Secretaria", "Lucia", false);
-	patients[2] = new Pediatrics(8, 12324567, "Mario", "N/A", "Luis", "65789434");
+	//patients[2] = new Pediatrics(8, 123245677, "Mario", "0", "Luis", "65789");
 
 	cout << "---Pacientes: ---\n";
-	printPatients(patients, 3);
+	printPatients(patients, 2);
 }
 
